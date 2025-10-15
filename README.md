@@ -126,7 +126,7 @@ DOSYA YAPISI HAKKINDA
 - Kapanmamış Faturalar sekmesinde "Kalan Vade" sütununa göre otomatik sıralama yapılır.
 - Satış Raporu'nda iade işlemleri ayrı bir sütunda gösterilir ve satış toplamlarını etkilemez.
 - "Yardım" menüsünden program hakkında detaylı bilgiye ulaşabilir ve sorun bildirebilirsiniz.
-- Destek için: burak@lastikburada.com
+
 
 ------------------------------------------------------------------------------
 
